@@ -1,0 +1,2 @@
+# hacken
+Basics im Programmieren
