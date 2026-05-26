@@ -1,2 +1,4 @@
 # hacken
-Basics im Programmieren
+Basics im Programmieren im SoSe 26 bei Cisouw
+
+Hilfe wie geht das
